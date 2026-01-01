@@ -2,11 +2,11 @@
 **Riipen Industry Project – Frontend Web Development**
 
 ## Overview
-This project is a redesign of the Mears Law website completed as part of a [Riipen Level UP](https://levelup.riipen.com) industry project, a short-term paid internship program where students work directly with real companies on real projects. The goal was to modernize the firm’s web presence while keeping the site professional, clear, and easy to navigate for clients.
+This project is a redesign of the Mears Law website completed as part of a [Riipen Level UP](https://levelup.riipen.com) industry project. Students work directly with real companies, and the goal here was to update the firm's website while keeping it professional, clear, and easy for clients to use.
 
-The work focuses on frontend structure, navigation, and page-level UI improvements within a real, collaborative Next.js codebase. Changes were made iteratively based on team discussions and client feedback, with attention to polish, consistency, and deployment readiness rather than one-off demos.
+The work focused on the frontend. This included site structure, navigation, and layout changes built in Next.js. Updates were made over time based on team discussion and client feedback, with an emphasis on consistency and readiness for deployment.
 
-A live demo corresponding to this repository is deployed on Vercel, with the firm’s official website included for reference.
+A live demo for this repository is deployed on Vercel, with the firm's official website included for reference.
 
 **Demo:** https://mearslaw-ten.vercel.app  
 **Client Website (Reference):** https://www.mearslaw.ca
@@ -14,56 +14,49 @@ A live demo corresponding to this repository is deployed on Vercel, with the fir
 ---
 
 ## Project Goals
-The redesign focused on a few core priorities:
+The redesign focused on a few clear goals:
 
-- Clear, consistent navigation across all pages  
-- Improved layout and readability for key informational routes  
-- A shared header and footer to unify the site structure  
-- Production-ready touches such as analytics and SEO basics  
-- A clean visual identity aligned with a professional law firm  
+- Simple and consistent navigation  
+- Clear layouts for key informational pages  
+- A shared header and footer across the site  
+- Analytics and basic SEO support  
+- A visual style appropriate for a law firm  
 
 ---
 
 ## Key Features
 - Responsive header and footer used across all routes  
-- Dedicated pages for About, Services, Careers, Offices, Contact, and Privacy  
-- Consultation booking page accessible from the navigation bar  
-- Cookie notice and privacy terms for compliance and transparency  
-- Google Analytics 4 integration for traffic tracking  
-- SEO support through sitemap and robots configuration  
-- Public demo deployment via Vercel  
+- Pages for About, Services, Careers, Offices, Contact, and Privacy  
+- Consultation booking page accessible from the navigation  
+- Cookie notice and privacy terms  
+- Google Analytics 4 integration  
+- Sitemap and robots configuration for search engines  
+- Public demo deployed on Vercel  
 
 ---
 
 ## Tech Stack
-- Next.js (App Router)
-- React
-- JavaScript
-- CSS Modules
-- Google Analytics 4
-- Vercel (deployment)
+- Next.js (App Router)  
+- React  
+- JavaScript  
+- CSS Modules  
+- Google Analytics 4  
+- Vercel  
 
 ---
 
 ## My Contributions
-*This project was completed as part of a Riipen team. The section below describes my individual contributions.*
+*This project was completed as part of a Riipen team. The points below describe my individual contributions.*
 
 **Krish Suryavanshi**
 
-- Designed and implemented the site-wide header and footer, including navigation and branding  
-- Created and redesigned core pages including About, Offices, Careers, Contact, and Privacy  
-- Improved UI consistency and layout across multiple routes through iterative refinement  
+- Built the site header and footer, including navigation and branding  
+- Created and updated pages such as About, Offices, Careers, Contact, and Privacy  
+- Improved layout consistency across the site through iterative changes  
 - Added a table of contents to the Privacy page to improve readability  
-- Refined footer design and updated branding and icon usage  
-- Integrated Google Analytics 4 tracking to support production readiness  
-- Contributed consistently over several weeks through coordinated team and client check-ins  
-
----
-
-## Deployment Notes
-- Local development runs at `localhost:3000` and is used for testing and iteration  
-- The Vercel link above reflects this repository and serves as the primary demo  
-- The official Mears Law website is included for reference and may differ slightly depending on deployment timing and configuration  
+- Updated footer styling, branding, and icon usage  
+- Integrated Google Analytics 4  
+- Took part in regular team meetings and client check-ins  
 
 ---
 
@@ -161,6 +154,8 @@ mears-law-website-redesign/
 ---
 
 ## Notes
-- This repository reflects a collaborative, production-style workflow rather than a standalone demo  
-- Commit history includes work from multiple contributors and iterative updates over time  
-- The primary focus of this project was frontend structure, layout, and polish rather than backend systems  
+- This repository reflects a collaborative team project  
+- The Vercel deployment linked above corresponds to this code  
+- The client's official website is included for reference and may differ slightly  
+- Commit history includes work from multiple contributors  
+- The focus of this project was frontend layout and navigation rather than backend systems  
