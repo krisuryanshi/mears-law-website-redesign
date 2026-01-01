@@ -13,6 +13,60 @@ A live demo corresponding to this repository is deployed on Vercel, with the fir
 
 ---
 
+## Project Goals
+The redesign focused on a few core priorities:
+
+- Clear, consistent navigation across all pages  
+- Improved layout and readability for key informational routes  
+- A shared header and footer to unify the site structure  
+- Production-ready touches such as analytics and SEO basics  
+- A clean visual identity aligned with a professional law firm  
+
+---
+
+## Key Features
+- Responsive header and footer used across all routes  
+- Dedicated pages for About, Services, Careers, Offices, Contact, and Privacy  
+- Consultation booking page accessible from the navigation bar  
+- Cookie notice and privacy terms for compliance and transparency  
+- Google Analytics 4 integration for traffic tracking  
+- SEO support through sitemap and robots configuration  
+- Public demo deployment via Vercel  
+
+---
+
+## Tech Stack
+- Next.js (App Router)
+- React
+- JavaScript
+- CSS Modules
+- Google Analytics 4
+- Vercel (deployment)
+
+---
+
+## My Contributions
+*This project was completed as part of a Riipen team. The section below describes my individual contributions.*
+
+**Krish Suryavanshi**
+
+- Designed and implemented the site-wide header and footer, including navigation and branding  
+- Created and redesigned core pages including About, Offices, Careers, Contact, and Privacy  
+- Improved UI consistency and layout across multiple routes through iterative refinement  
+- Added a table of contents to the Privacy page to improve readability  
+- Refined footer design and updated branding and icon usage  
+- Integrated Google Analytics 4 tracking to support production readiness  
+- Contributed consistently over several weeks through coordinated team and client check-ins  
+
+---
+
+## Deployment Notes
+- Local development runs at `localhost:3000` and is used for testing and iteration  
+- The Vercel link above reflects this repository and serves as the primary demo  
+- The official Mears Law website is included for reference and may differ slightly depending on deployment timing and configuration  
+
+---
+
 ## Repository Structure
 ```
 mears-law-website-redesign/
@@ -103,60 +157,6 @@ mears-law-website-redesign/
 ├── package.json                # Dependencies and npm scripts
 └── test-ai-api.js              # Local script for testing the AI API
 ```
-
----
-
-## Tech Stack
-- Next.js (App Router)
-- React
-- JavaScript
-- CSS Modules
-- Google Analytics 4
-- Vercel (deployment)
-
----
-
-## Project Goals
-The redesign focused on a few core priorities:
-
-- Clear, consistent navigation across all pages  
-- Improved layout and readability for key informational routes  
-- A shared header and footer to unify the site structure  
-- Production-ready touches such as analytics and SEO basics  
-- A clean visual identity aligned with a professional law firm  
-
----
-
-## Key Features
-- Responsive header and footer used across all routes  
-- Dedicated pages for About, Services, Careers, Offices, Contact, and Privacy  
-- Consultation booking page accessible from the navigation bar  
-- Cookie notice and privacy terms for compliance and transparency  
-- Google Analytics 4 integration for traffic tracking  
-- SEO support through sitemap and robots configuration  
-- Public demo deployment via Vercel  
-
----
-
-## My Contributions
-*This project was completed as part of a Riipen team. The section below describes my individual contributions.*
-
-**Krish Suryavanshi**
-
-- Designed and implemented the site-wide header and footer, including navigation and branding  
-- Created and redesigned core pages including About, Offices, Careers, Contact, and Privacy  
-- Improved UI consistency and layout across multiple routes through iterative refinement  
-- Added a table of contents to the Privacy page to improve readability  
-- Refined footer design and updated branding and icon usage  
-- Integrated Google Analytics 4 tracking to support production readiness  
-- Contributed consistently over several weeks through coordinated team and client check-ins  
-
----
-
-## Deployment Notes
-- Local development runs at `localhost:3000` and is used for testing and iteration  
-- The Vercel link above reflects this repository and serves as the primary demo  
-- The official Mears Law website is included for reference and may differ slightly depending on deployment timing and configuration  
 
 ---
 
